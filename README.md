@@ -1,4 +1,4 @@
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&langs_count=6)
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyuael&layout=compact&theme=dark&langs_count=6)
 
 <!--
 **eyuael/eyuael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
